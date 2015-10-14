@@ -1,7 +1,7 @@
 # Strange (Forensic 150)
 I lost my glasses! help me!!
 
-## Analyse PNG
+## Analyze PNG
 The given png has very large size so it can't be opened (actually, my viewer crashed).
 
 ```bash
@@ -176,6 +176,8 @@ img.save("./flag.png")
 ```
 Finally I got flag!
 
+
+>![mask number 6](https://gist.githubusercontent.com/icchyr/1842ddd0a504b4672b1e/raw/eebe3adc134dd1684bde8d880996af4a1077cf88/flag.png)
 
 ```
 ASIS{e834f8a60bd854ca902fa5d4464f0394}

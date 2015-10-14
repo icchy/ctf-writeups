@@ -4,10 +4,10 @@ I had a bet with Gordon Kane of Michigan University that the Higgs particle woul
 - Stephen Hawking
 ```
 
-## Analyze packet
+
 Open the given packet with WireShark.
 
->![sc1](https://gist.githubusercontent.com/icchyr/1842ddd0a504b4672b1e/raw/eebe3adc134dd1684bde8d880996af4a1077cf88/flag.png)
+>![sc1](https://gist.githubusercontent.com/icchyr/e28c20d2bfaa9563c89a/raw/33601ca4bf856bf3f17180e4f185f0f1de547dd3/sc_wireshark.png)
 
 Following TCP Stream (stream 0).
 ```
@@ -121,3 +121,9 @@ SHA-1: e8c7d65370947b40418af55bdc0f65e06b7b0c59
 ```
 
 I executed this file in sandbox, and got flag.
+
+>![flag](https://gist.githubusercontent.com/icchyr/e28c20d2bfaa9563c89a/raw/33601ca4bf856bf3f17180e4f185f0f1de547dd3/sc.png)
+
+```
+ASIS{c295c4f709efc00a54e77a027e36860c}
+```
